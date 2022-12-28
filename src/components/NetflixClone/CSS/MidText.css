@@ -1,0 +1,14 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    border-bottom: 0ch;
+}
+.midtext
+{
+    justify-content: center;
+    display: flex;
+    font-size: 200%;
+    color: white;
+    padding: 2%;
+}

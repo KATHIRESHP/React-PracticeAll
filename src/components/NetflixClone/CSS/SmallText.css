@@ -1,0 +1,14 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    border-bottom: 0ch;
+}
+.text
+{
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,96 @@
+body{
+    background-color: black;
+}
+.inputContainerOut
+{
+    background-color: #515561;
+    width: 193px;
+    height: 306px;
+    margin-top: 10%;
+    margin-left: 40%;
+    border-radius: 20px;
+    position: absolute;
+    opacity: 1;
+}
+.container
+{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.inputContainerIn
+{
+    z-index: 9;
+    margin-top: 8%;
+    margin-left: 30%;
+    background-color: #3500D3;
+    width: 100%;
+    height: 150px;
+    border-radius: 20px;
+    align-items: center;
+    display: flexbox;
+    justify-self: center;
+    padding: 10%;
+    box-shadow: #3500D3 10px 10px;
+    align-self: center;
+}
+.inputField
+{
+    background-color: white;
+    border: white;
+    border-radius: 10px;
+    width: 60%;
+    height: 100%;
+}
+.inputContainer{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    margin-top: 15%;
+}
+.inputContainer .useridtxt
+{
+    flex: 40%;
+    align-self: center;
+    color: #ffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inputContainer .passwordtxt
+{
+    flex: 40%;
+    align-self: center;
+    color: #ffff;
+}
+.submitButton
+{
+    display: flex;
+    background-color: #FFB904;
+    margin: 10% 0% 0% 45%;
+    border-radius: 20px;
+    height: max-content;
+    width: max-content;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.signin
+{
+    margin-left: 10%;
+    font-style: italic;
+}
+.signupPage
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: x-small;
+    margin-left: 50%;
+    margin-top: 5%;
+  
+}
+.signupPage .createacctxt
+{
+    text-decoration: none;
+    color: inherit;
+}

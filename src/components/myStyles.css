@@ -1,0 +1,13 @@
+.primary
+{
+    background-image: linear-gradient(to right, red, blue);
+    color: orange;
+}
+.secondary
+{
+    font-size: 50px;
+}
+.failure
+{
+    color:red;
+}

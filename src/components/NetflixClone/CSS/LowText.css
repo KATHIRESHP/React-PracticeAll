@@ -1,0 +1,14 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    border-bottom: 0ch;
+}
+.lowtext
+{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+    margin-top: 2%;
+}

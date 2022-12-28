@@ -1,0 +1,13 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    border-bottom: 0ch;
+}
+
+.emailbox
+{
+    height: 10vh;
+    width: 35vw;
+    border: none;
+}

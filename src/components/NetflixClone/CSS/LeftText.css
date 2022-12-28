@@ -1,0 +1,55 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    border-bottom: 0ch;
+}
+.container
+{
+    background-color: #0b0b0b;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    height: 70vh;
+    align-items: center;
+    border: #222;
+    border-style: solid;
+    border-top-width: 10px;
+}
+.text-container
+{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.large-text
+{
+    font-size: 300%;
+    height: 40%;
+    width: 80%;
+    display: flex;
+    font-size: 370%;
+    align-items: flex-end;
+    justify-content: start;
+    font-weight: 500;
+    margin-bottom: 5%;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+}
+.small-text
+{
+    font-size: 300%;
+    height: 8%;
+    width: 80%;
+    display: flex;
+    font-size: 370%;
+    align-items: flex-start;
+    justify-content: start;
+    font-weight: 500;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+}
+.pro-image
+{
+    width: 42%;
+}
